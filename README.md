@@ -44,8 +44,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Sahasra-Kesara&theme=onedark" alt="Layout with last medium posts"  />
-</div>
+[![Image of https://github.com/Sahasra-Kesara/my-profile-views-counter](https://github.com/Sahasra-Kesara/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Sahasra-Kesara/my-profile-views-counter)
 
 ###
