@@ -56,13 +56,13 @@
 ### 🤖 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/sahasrakesara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="www.linkedin.com/in/kesare-cooray-544424256" />
   </a>
   <a href="mailto:sahasrakesara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://stacknet.lk" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20StackNet-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="[https://img.shields.io/badge/🌐%20Visit%20StackNet-0A66C2?style=flat&logo=google-chrome&logoColor=white](https://www.stacknet.lk/)" />
   </a>
 </p>
 
