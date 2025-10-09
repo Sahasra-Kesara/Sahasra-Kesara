@@ -1,79 +1,95 @@
-<!-- Dynamic and Interactive GitHub Profile README for Sahasra Kesara -->
+<!-- Executive & Tech-Driven GitHub Profile README for Sahasra Kesara -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00b3ff;">Sahasra Kesara</span></h1>
-<h3 align="center">🚀 Founder & Managing Director | StackNet (Pvt) Ltd</h3>
+<h1 align="center">Sahasra Kesara</h1>
+<h3 align="center">Founder & Managing Director | StackNet (Pvt) Ltd</h3>
 
 <p align="center">
-  <b>Innovating across</b> — Software Engineering • Data Science • AI/ML • Research & Development • IoT • Cloud & DevOps • Cybersecurity
+  Pioneering next-generation solutions in Software Engineering, Data Science, Artificial Intelligence, IoT, Cloud Infrastructure, DevOps, and Cybersecurity.
 </p>
 
 ---
 
-### 🌐 About Me  
-💡 Passionate about transforming ideas into scalable digital ecosystems.  
-👨‍💻 Building the future through **AI-driven, cloud-native, and secure systems**.  
-🌍 Based in **Sri Lanka**, leading innovation through **StackNet (Pvt) Ltd**.  
-📈 Always exploring intersections of **technology, intelligence, and impact**.  
+### About Me  
+
+I am a technology leader, innovator, and founder of **StackNet (Pvt) Ltd**, driving transformation across digital ecosystems through intelligent software engineering, applied research, and scalable infrastructure solutions.  
+
+My expertise lies in developing **AI-driven systems**, building **cloud-native architectures**, and architecting secure and efficient **enterprise solutions** that bridge business strategy and deep technology.  
+
+With a strong focus on **R&D and automation**, I’m passionate about leveraging emerging technologies to design systems that empower industries, accelerate innovation, and redefine digital intelligence.  
 
 ---
 
-### ⚙️ Tech Stack & Tools  
+### Areas of Expertise  
+
+- **Software Engineering & Architecture** – Enterprise-grade applications, scalable API ecosystems, and system design.  
+- **Artificial Intelligence & Data Science** – Predictive modeling, ML pipelines, automation, and cognitive analytics.  
+- **IoT & Embedded Systems** – Intelligent sensor integration, edge computing, and real-time analytics.  
+- **Cloud Infrastructure & DevOps** – AWS, GCP, Azure, Kubernetes, CI/CD automation, and cloud security.  
+- **Cybersecurity & Compliance** – Network defense, threat intelligence, vulnerability management, and governance.  
+- **Research & Development** – Exploring AI ethics, digital twin systems, and computational optimization models.  
+
+---
+
+### Tech Stack & Tools  
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,angular,flask,django,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,aws,gcp,azure,postgresql,mysql,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,angular,flask,django,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,aws,gcp,azure,postgresql,mysql,vscode,pycharm,postman,redis,pytorch,tensorflow" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics  
+### Technical Overview  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahasra-Kesara&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahasra-Kesara&theme=radical&hide_border=true" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahasra-Kesara&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahasra-Kesara&theme=github-dark-blue&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Kesara&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </div>
 
 ---
 
-### 🧠 Top Languages  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Kesara&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+### Milestones & Recognition  
 
----
-
-### 🏆 Achievements & Milestones  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Kesara&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Kesara&theme=github_dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🔥 Live Profile Metrics  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahasra-kesara&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
+### Vision  
+
+To advance global technology standards through **intelligent engineering**, **research-driven innovation**, and **sustainable digital transformation**.  
+
+At **StackNet**, our mission is to engineer adaptive, secure, and scalable systems that empower organizations to lead in the era of AI and automation.  
 
 ---
 
-### 🤖 Let’s Connect  
+### Connect  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahasrakesara" target="_blank">
-    <img src="www.linkedin.com/in/kesare-cooray-544424256" />
+  <a href="https://www.linkedin.com/in/kesare-cooray-544424256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sahasrakesara@gmail.com">
+  <a href="mailto:sahasrakesara@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://stacknet.lk" target="_blank">
-    <img src="[https://img.shields.io/badge/🌐%20Visit%20StackNet-0A66C2?style=flat&logo=google-chrome&logoColor=white](https://www.stacknet.lk/)" />
+  <a href="https://www.stacknet.lk" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20StackNet-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="250"/>
+### Core Philosophy  
 
-### ⚡ “Engineering intelligence, one system at a time.”
+> “Technology isn’t just about innovation — it’s about creating meaningful, secure, and scalable impact.”  
+> — *Sahasra Kesara*
 
 ---
 
-> 💬 *"Building tech isn’t just about code — it’s about creating impact through innovation."*  
-> — **Sahasra Kesara**
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahasra-kesara&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
+</p>
