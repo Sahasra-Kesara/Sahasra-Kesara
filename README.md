@@ -1,7 +1,7 @@
 <!-- Executive & Tech-Driven GitHub Profile README for Sahasra Kesara -->
 
 <h1 align="center">M. Sahasra Kesara Cooray</h1>
-<h3 align="center">Founder & Managing Director | StackNet (Pvt) Ltd</h3>
+<h3 align="center">Founder & Chairman | StackNet (Pvt) Ltd</h3>
 
 <p align="center">
   Pioneering next-generation solutions in Software Engineering, Data Science, Artificial Intelligence, IoT, Cloud Infrastructure, DevOps, and Cybersecurity.
