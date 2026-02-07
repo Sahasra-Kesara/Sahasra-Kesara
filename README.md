@@ -1,44 +1,69 @@
-<!-- Executive & Tech-Driven GitHub Profile README for Sahasra Kesara -->
+<!-- Executive • Engineering • Real-Time Systems GitHub Profile README -->
 
-<h1 align="center">M. Sahasra Kesara Cooray</h1>
-<h3 align="center">Founder & Chairman | StackNet (Pvt) Ltd</h3>
+<h1 align="center">
+  👨‍💻 M. Sahasra Kesara Cooray
+</h1>
+
+<h3 align="center">
+  Founder & Chairman | StackNet (Pvt) Ltd
+</h3>
 
 <p align="center">
-  Pioneering next-generation solutions in Software Engineering, Data Science, Artificial Intelligence, IoT, Cloud Infrastructure, DevOps, and Cybersecurity.
+  <b>Software Engineer • System Architect • AI & Cloud Leader</b>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Systems;Building+Real-Time+%26+Cloud-Native+Platforms;Go+%7C+AI+%7C+DevOps+%7C+Cybersecurity;Founder+Mindset+%7C+Engineer+Execution" />
+</p>
 
-### About Me  
-
-I am a technology leader, innovator, and founder of **StackNet (Pvt) Ltd**, driving transformation across digital ecosystems through intelligent software engineering, applied research, and scalable infrastructure solutions.  
-
-My expertise lies in developing **AI-driven systems**, building **cloud-native architectures**, and architecting secure and efficient **enterprise solutions** that bridge business strategy and deep technology.  
-
-With a strong focus on **R&D and automation**, I’m passionate about leveraging emerging technologies to design systems that empower industries, accelerate innovation, and redefine digital intelligence.  
+<img width="1883" height="454" alt="Cover" src="https://github.com/user-attachments/assets/087b63f3-b2f9-4268-8269-3f8534133697" />
 
 ---
 
-### Areas of Expertise  
+## 🚀 About Me  
 
-- **Software Engineering & Architecture** – Enterprise-grade applications, scalable API ecosystems, and system design.  
-- **Artificial Intelligence & Data Science** – Predictive modeling, ML pipelines, automation, and cognitive analytics.  
-- **IoT & Embedded Systems** – Intelligent sensor integration, edge computing, and real-time analytics.  
-- **Cloud Infrastructure & DevOps** – AWS, GCP, Azure, Kubernetes, CI/CD automation, and cloud security.  
-- **Cybersecurity & Compliance** – Network defense, threat intelligence, vulnerability management, and governance.  
-- **Research & Development** – Exploring AI ethics, digital twin systems, and computational optimization models.  
+I’m a **technology founder and hands-on software engineer**, leading **StackNet (Pvt) Ltd** with a strong focus on **high-performance systems, real-time architectures, and AI-driven platforms**.
+
+I design and build **production-grade software** that scales — from **cloud-native microservices** to **real-time data pipelines**, blending **engineering discipline** with **business strategy**.
+
+My approach is simple:  
+**Think like a CEO. Build like a Senior Engineer. Ship like a startup.**
 
 ---
 
-### Tech Stack & Tools  
+## 🧠 Engineering Focus Areas  
+
+- **Backend & System Architecture** – High-throughput APIs, microservices, clean architecture  
+- **Real-Time Systems** – WebSockets, gRPC, message queues, event-driven design  
+- **Golang Engineering** – Concurrent services, performance-critical backends  
+- **Artificial Intelligence & Data Science** – ML pipelines, predictive systems, automation  
+- **Cloud & DevOps** – Kubernetes, CI/CD, observability, cost-optimized infrastructure  
+- **Cybersecurity** – Secure-by-design systems, auth, monitoring, compliance  
+- **R&D & Innovation** – AI ethics, digital twins, optimization models  
+
+---
+
+## ⚙️ Tech Stack (CEO-level, Engineer-approved)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,angular,flask,django,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,aws,gcp,azure,postgresql,mysql,vscode,pycharm,postman,redis,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=go,python,java,js,ts,react,angular,flask,django,nodejs,html,css,tailwind,git,github,linux,docker,kubernetes,aws,gcp,azure,postgresql,mysql,redis,grpc,nginx,vscode,postman,pytorch,tensorflow" />
 </div>
 
 ---
 
-### Technical Overview  
+## 🔄 Real-Time & Distributed Systems  
+
+- **WebSockets** – Live dashboards, IoT monitoring, notifications  
+- **gRPC** – High-performance service-to-service communication  
+- **Event Streaming** – Redis, message queues, async processing  
+- **Concurrency & Performance** – Goroutines, async workers, load balancing  
+- **Observability** – Metrics, logs, tracing, system health  
+
+> *Designed for low latency. Built for scale. Monitored for reliability.*
+
+---
+
+## 📊 Engineering Metrics  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahasra-Kesara&show_icons=true&theme=github_dark&hide_border=true" height="170" />
@@ -51,45 +76,54 @@ With a strong focus on **R&D and automation**, I’m passionate about leveraging
 
 ---
 
-### Milestones & Recognition  
+## 🏆 Milestones & Influence  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Kesara&theme=github_dark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Kesara&theme=github_dark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### Vision  
+## 📈 Contribution Activity  
 
-To advance global technology standards through **intelligent engineering**, **research-driven innovation**, and **sustainable digital transformation**.  
-
-At **StackNet**, our mission is to engineer adaptive, secure, and scalable systems that empower organizations to lead in the era of AI and automation.  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahasra-Kesara&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
-### Connect  
+## 🌍 Vision  
+
+To build **intelligent, secure, and real-time digital systems** that redefine how organizations operate in the age of **AI, automation, and distributed computing**.
+
+At **StackNet**, we don’t just deliver software —  
+we **engineer platforms that scale with ambition**.
+
+---
+
+## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kesare-cooray-544424256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-CEO%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sahasrakesara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:sahasrakesara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.stacknet.lk" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20StackNet-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/StackNet-Official%20Website-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### Core Philosophy  
+## 🧭 Core Philosophy  
 
-> “Technology isn’t just about innovation — it’s about creating meaningful, secure, and scalable impact.”  
+> **“Great software is not written — it’s engineered, observed, and evolved.”**  
 > — *Sahasra Kesara*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahasra-kesara&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sahasra-kesara&label=Profile%20Views&color=0A66C2&style=flat-square" />
 </p>
