@@ -36,7 +36,7 @@ With a strong focus on **R&D and automation**, I’m passionate about leveraging
 ### Tech Stack & Tools  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,angular,flask,django,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,aws,gcp,azure,postgresql,mysql,vscode,pycharm,postman,redis,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,react,angular,flask,django,html,css,bootstrap,tailwind,git,github,linux,docker,kubernetes,aws,gcp,azure,postgresql,mysql,vscode,pycharm,postman,redis,pytorch,tensorflow" />
 </div>
 
 ---
