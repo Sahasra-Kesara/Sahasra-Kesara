@@ -1,29 +1,15 @@
-<!-- ========================= -->
-<!-- EXECUTIVE TECH README -->
-<!-- ========================= -->
+M. SAHASRA KESARA COORAY
+Founder | CEO | Tech Architect
+Building Scalable Intelligent Systems
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=M.+Sahasra+Kesara+Cooray;Founder+%7C+CEO+%7C+Tech+Architect;Building+Scalable+Intelligent+Systems" />
-</h1>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
-</p>
+Founder & CEO — StackNet (Pvt) Ltd
 
-<h3 align="center">
-  🚀 Founder & CEO — <strong>StackNet (Pvt) Ltd</strong>
-</h3>
+BSc (Hons) Software Engineering Undergraduate
+Cardiff Metropolitan University
 
-<p align="center">
-  🎓 <strong>BSc (Hons) Software Engineering Undergraduate</strong><br/>
-  Cardiff Metropolitan University
-</p>
-
-<p align="center">
-  <code>Engineering intelligent, scalable, globally competitive platforms</code>
-</p>
-
-<img width="100%" src="https://github.com/user-attachments/assets/087b63f3-b2f9-4268-8269-3f8534133697" />
+Engineering intelligent, scalable, globally competitive platforms
 
 ---
 
@@ -103,15 +89,7 @@ We deliver end-to-end technology solutions — from concept to global deployment
   <img src="https://skillicons.dev/icons?i=linux,go,python,java,js,ts,react,angular,flutter,nodejs,django,flask,docker,kubernetes,aws,gcp,azure,postgres,redis&theme=dark" />
 </p>
 
-```yaml
-Languages     : Go | Python | Java | JavaScript | TypeScript
-Frontend      : React | Angular | Flutter | Tailwind CSS
-Backend       : Node.js | Flask | Django
-Cloud         : AWS | GCP | Azure | Cloudflare
-DevOps        : Docker | Kubernetes | CI/CD | Linux
-Databases     : PostgreSQL | MySQL | Redis
-AI & Data     : ML | DL | MLOps | Data Engineering
-```
+
 
 ---
 
