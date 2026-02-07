@@ -1,137 +1,134 @@
-<!-- Executive | Tech Lead | International Founder README -->
+<!-- ========================= -->
+<!-- EXECUTIVE TECH README -->
+<!-- ========================= -->
 
-<h1 align="center" style="font-size:42px;">M. Sahasra Kesara Cooray</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=M.+Sahasra+Kesara+Cooray;Founder+%7C+CEO+%7C+Tech+Architect;Building+Scalable+Intelligent+Systems" />
+</h1>
 
-<h2 align="center" style="font-size:26px;">Founder & CEO | StackNet (Pvt) Ltd</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
+</p>
 
-<p align="center" style="font-size:18px;">
-  <strong>BSc (Hons) Software Engineering Undergraduate</strong><br/>
+<h3 align="center">
+  🚀 Founder & CEO — <strong>StackNet (Pvt) Ltd</strong>
+</h3>
+
+<p align="center">
+  🎓 <strong>BSc (Hons) Software Engineering Undergraduate</strong><br/>
   Cardiff Metropolitan University
 </p>
 
-<p align="center" style="font-size:18px;">
-  Building intelligent, scalable, and globally competitive technology platforms
+<p align="center">
+  <code>Engineering intelligent, scalable, globally competitive platforms</code>
 </p>
 
-<img width="100%" alt="StackNet Cover" src="https://github.com/user-attachments/assets/087b63f3-b2f9-4268-8269-3f8534133697" />
+<img width="100%" src="https://github.com/user-attachments/assets/087b63f3-b2f9-4268-8269-3f8534133697" />
 
 ---
 
-<h2 style="font-size:32px;">ABOUT ME</h2>
+## 🧠 ABOUT ME
 
-I am a technology founder, IT lead, and software architect focused on designing future-ready digital systems that scale across borders and industries.
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-As the Founder & CEO of StackNet (Pvt) Ltd, I lead the development of AI-powered platforms, data-driven solutions, and cloud-native infrastructures built for real-world impact. My work sits at the intersection of deep engineering, strategic thinking, and research-driven innovation.
+I'm a **technology founder, software architect, and engineering leader** building future-ready digital systems that scale across industries and borders.
 
-Modern software, in my view, must be:
+As **Founder & CEO of StackNet**, I lead the design of:
 
-- Intelligent — driven by AI and data  
-- Scalable — cloud-native and distributed by design  
-- Secure — enterprise-grade security built in  
-- Sustainable — engineered to evolve over time  
+- AI-powered platforms  
+- Data-driven decision systems  
+- Cloud-native, security-first infrastructures  
 
----
+I operate at the intersection of **deep engineering, research, and strategy**.
 
-<h2 style="font-size:32px;">WHAT WE DO AT STACKNET</h2>
-
-We deliver end-to-end technology solutions for startups, enterprises, and public-sector organizations, covering the full lifecycle from design to deployment.
-
-<h3 style="font-size:26px;">ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</h3>
-
-- Predictive analytics and forecasting systems  
-- Deep learning and neural network solutions  
-- Intelligent automation and decision engines  
-- Model deployment, monitoring, and MLOps pipelines  
-
-<h3 style="font-size:26px;">DATA SCIENCE & ADVANCED ANALYTICS</h3>
-
-- Data engineering and ETL pipelines  
-- Business intelligence and executive dashboards  
-- Statistical modeling and optimization  
-- Big-data processing and insight generation  
-
-<h3 style="font-size:26px;">GIS & SPATIAL INTELLIGENCE</h3>
-
-- Location-based analytics platforms  
-- GIS mapping and visualization systems  
-- Smart city and infrastructure analytics  
-- Geospatial and satellite data processing  
-
-<h3 style="font-size:26px;">SOFTWARE ENGINEERING</h3>
-
-- Enterprise-grade web and mobile applications  
-- API-first and microservices architectures  
-- High-performance backend systems  
-- Cross-platform mobile development  
-
-<h3 style="font-size:26px;">CLOUD, DEVOPS & INFRASTRUCTURE</h3>
-
-- Cloud-native system architecture  
-- CI/CD automation and DevOps pipelines  
-- Containerized and orchestrated deployments  
-- Edge computing and global content delivery  
-
-<h3 style="font-size:26px;">CYBERSECURITY & COMPLIANCE</h3>
-
-- Secure system architecture and design  
-- Vulnerability assessment and hardening  
-- Identity, authentication, and access control  
-- Compliance-ready infrastructure solutions  
+```bash
+Principles I build by:
+✔ Intelligent
+✔ Scalable
+✔ Secure
+✔ Sustainable
+```
 
 ---
 
-<h2 style="font-size:32px;">TECHNOLOGIES & PLATFORMS</h2>
+## 🏗️ WHAT WE DO AT STACKNET
 
-<strong>Programming Languages:</strong>  
-Go, Python, Java, JavaScript, TypeScript  
+<img align="left" width="200" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
-<strong>Frontend & Mobile:</strong>  
-React, Angular, Flutter, HTML, CSS, Tailwind CSS  
+We deliver end-to-end technology solutions — from concept to global deployment — for startups, enterprises, and public institutions.
 
-<strong>Backend & APIs:</strong>  
-Node.js, Flask, Django, RESTful and Microservices Architectures  
+<br clear="left"/>
 
-<strong>Cloud & Infrastructure:</strong>  
-AWS, Google Cloud Platform, Microsoft Azure, Cloudflare  
+### 🤖 Artificial Intelligence & Machine Learning
+- Predictive analytics & forecasting
+- Deep learning & neural networks
+- Intelligent automation systems
+- MLOps, monitoring & deployment
 
-<strong>DevOps & Containers:</strong>  
-Docker, Kubernetes, CI/CD Pipelines, Linux-based Systems  
+### 📊 Data Science & Advanced Analytics
+- Data engineering & ETL pipelines
+- BI dashboards & executive reporting
+- Statistical modeling & optimization
+- Big-data processing
 
-<strong>Databases & Caching:</strong>  
-PostgreSQL, MySQL, Redis  
+### 🌍 GIS & Spatial Intelligence
+- Location-based analytics
+- GIS mapping & visualization
+- Smart city platforms
+- Satellite & geospatial data processing
 
-<strong>AI & Data:</strong>  
-Machine Learning Pipelines, Deep Learning Models, Data Engineering, MLOps  
+### 🧩 Software Engineering
+- Enterprise web & mobile apps
+- API-first & microservices systems
+- High-performance backend services
+- Cross-platform mobile solutions
+
+### ☁️ Cloud, DevOps & Infrastructure
+- Cloud-native architectures
+- CI/CD automation pipelines
+- Docker & Kubernetes deployments
+- Edge computing & CDN systems
+
+### 🔐 Cybersecurity & Compliance
+- Secure architecture design
+- Identity & access management
+- Vulnerability assessment
+- Compliance-ready systems
 
 ---
 
-<h2 style="font-size:32px;">LEADERSHIP & TECHNICAL FOCUS</h2>
-
-- Technology strategy and system architecture  
-- Engineering team leadership and mentorship  
-- Research and development in AI and ML  
-- Scalability, performance, and reliability engineering  
-- Digital transformation consulting  
-
----
-
-<h2 style="font-size:32px;">ENGINEERING METRICS & ACTIVITY</h2>
+## 🧰 TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahasra-Kesara&show_icons=false&theme=github_dark&hide_border=true" height="190" />
+  <img src="https://skillicons.dev/icons?i=linux,go,python,java,js,ts,react,angular,flutter,nodejs,django,flask,docker,kubernetes,aws,gcp,azure,postgres,redis&theme=dark" />
+</p>
+
+```yaml
+Languages     : Go | Python | Java | JavaScript | TypeScript
+Frontend      : React | Angular | Flutter | Tailwind CSS
+Backend       : Node.js | Flask | Django
+Cloud         : AWS | GCP | Azure | Cloudflare
+DevOps        : Docker | Kubernetes | CI/CD | Linux
+Databases     : PostgreSQL | MySQL | Redis
+AI & Data     : ML | DL | MLOps | Data Engineering
+```
+
+---
+
+## 📈 ENGINEERING METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahasra-Kesara&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahasra-Kesara&theme=github-dark-blue&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahasra-Kesara&theme=github-dark-blue&hide_border=true" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Kesara&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Kesara&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
-<h2 style="font-size:32px;">ACHIEVEMENTS & RECOGNITION</h2>
+## 🏆 ACHIEVEMENTS
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Kesara&theme=github_dark&no-frame=true&row=1&column=6" />
@@ -139,34 +136,47 @@ Machine Learning Pipelines, Deep Learning Models, Data Engineering, MLOps
 
 ---
 
-<h2 style="font-size:32px;">VISION</h2>
+## 🌐 VISION
 
-My vision is to position StackNet as a globally trusted technology partner, delivering intelligent systems that power the next generation of AI-driven enterprises, smart infrastructure, and digital ecosystems.
+<img align="right" width="220" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-We don’t just build software.  
-We engineer long-term digital capability.
+My vision is to establish **StackNet** as a globally trusted technology partner, delivering:
 
----
+- AI-driven enterprise systems
+- Smart infrastructure platforms
+- Sustainable digital ecosystems
 
-<h2 style="font-size:32px;">CONNECT & COLLABORATE</h2>
+**We don't just build software.**  
+**We engineer long-term digital capability.**
 
-<p align="center" style="font-size:18px;">
-  <strong>Contact:</strong> 0770 568 688
-</p>
-
-<p align="center" style="font-size:18px;">
-  <a href="https://www.linkedin.com/in/kesare-cooray-544424256" target="_blank">LinkedIn</a> |
-  <a href="mailto:sahasrakesara@gmail.com">Email</a> |
-  <a href="https://www.stacknet.lk" target="_blank">www.stacknet.lk</a>
-</p>
+<br clear="right"/>
 
 ---
 
-<h2 style="font-size:32px;">CORE PHILOSOPHY</h2>
-
-> “Great technology is not defined by complexity,  
-> but by clarity, intelligence, and impact.”
+## 🤝 CONNECT & COLLABORATE
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahasra-kesara&label=Profile%20Views&color=0A66C2&style=flat-square" />
+  📞 <strong>0770 568 688</strong><br/><br/>
+  <a href="https://www.linkedin.com/in/kesare-cooray-544424256">LinkedIn</a> • 
+  <a href="mailto:sahasrakesara@gmail.com">Email</a> • 
+  <a href="https://www.stacknet.lk">stacknet.lk</a>
+</p>
+
+---
+
+## 🧬 CORE PHILOSOPHY
+
+<p align="center">
+  <em>"Great technology is not defined by complexity,<br/>
+  but by clarity, intelligence, and impact."</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahasra-kesara&label=Profile+Views&color=58A6FF&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </p>
