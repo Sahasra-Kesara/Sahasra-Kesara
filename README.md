@@ -70,7 +70,6 @@ To advance global technology standards through **intelligent engineering**, **re
 At **StackNet**, our mission is to engineer adaptive, secure, and scalable systems that empower organizations to lead in the era of AI and automation.  
 
 ---
-<img width="2146" height="2419" alt="World-PNG-Images" src="https://github.com/user-attachments/assets/be6dfd64-bb9e-4f80-b596-4f58ab410032" />
 
 ### Connect  
 
