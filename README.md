@@ -1,122 +1,112 @@
 <!-- Executive | Tech Lead | International Founder README -->
 
-<h1 align="center">M. Sahasra Kesara Cooray</h1>
-<h3 align="center">Founder & CEO | StackNet (Pvt) Ltd</h3>
+<h1 align="center" style="font-size:42px;">M. Sahasra Kesara Cooray</h1>
 
-<p align="center">
+<h2 align="center" style="font-size:26px;">Founder & CEO | StackNet (Pvt) Ltd</h2>
+
+<p align="center" style="font-size:18px;">
   <strong>BSc (Hons) Software Engineering Undergraduate</strong><br/>
   Cardiff Metropolitan University
 </p>
 
-<p align="center">
-  Building intelligent, scalable, and globally competitive technology platforms 🌍
+<p align="center" style="font-size:18px;">
+  Building intelligent, scalable, and globally competitive technology platforms
 </p>
 
 <img width="100%" alt="StackNet Cover" src="https://github.com/user-attachments/assets/087b63f3-b2f9-4268-8269-3f8534133697" />
 
 ---
 
-## 👋 About Me
+<h2 style="font-size:30px;">ABOUT ME</h2>
 
-I’m a **technology founder, IT lead, and software architect** focused on designing **future-ready digital systems** that scale across borders and industries.
+I am a **technology founder, IT lead, and software architect** focused on designing **future-ready digital systems** that scale across borders and industries.
 
-As the **Founder & CEO of StackNet (Pvt) Ltd**, I lead the development of **AI-powered platforms, data-driven solutions, and cloud-native infrastructures** tailored for real-world impact. My work bridges **engineering depth, business strategy, and research-driven innovation**.
+As the **Founder & CEO of StackNet (Pvt) Ltd**, I lead the development of **AI-powered platforms, data-driven solutions, and cloud-native infrastructures** built for real-world impact. My work sits at the intersection of **deep engineering, strategic thinking, and research-driven innovation**.
 
-I believe modern software must be:
-- **Intelligent** (AI & Data driven)
-- **Scalable** (Cloud-native & distributed)
-- **Secure** (Enterprise-grade security by design)
-- **Sustainable** (Built to evolve)
+Modern software, in my view, must be:
 
----
-
-## 🚀 What We Do at StackNet
-
-We deliver **end-to-end technology solutions** for startups, enterprises, and public-sector systems.
-
-### 🔹 Core Service Domains
-
-#### 🤖 Artificial Intelligence & Machine Learning
-- Predictive analytics & forecasting systems  
-- Deep learning & neural network solutions  
-- Intelligent automation & decision engines  
-- AI model deployment & MLOps pipelines  
-
-#### 📊 Data Science & Advanced Analytics
-- Data engineering & ETL pipelines  
-- Business intelligence dashboards  
-- Statistical modeling & optimization  
-- Big data processing & insights generation  
-
-#### 🌍 GIS & Spatial Intelligence
-- Location-based analytics systems  
-- GIS mapping & visualization platforms  
-- Smart city & infrastructure analytics  
-- Satellite & geospatial data processing  
-
-#### 💻 Software Engineering
-- Enterprise web & mobile applications  
-- Microservices & API-driven systems  
-- High-performance backend architectures  
-- Cross-platform mobile apps (Flutter)  
-
-#### ☁️ Cloud, DevOps & Infrastructure
-- Cloud-native system design  
-- CI/CD automation & DevOps pipelines  
-- Kubernetes & container orchestration  
-- Edge computing & CDN optimization  
-
-#### 🔐 Cybersecurity & Compliance
-- Secure system architecture  
-- Vulnerability assessment & hardening  
-- Authentication & access control systems  
-- Compliance-ready infrastructure design  
+- **Intelligent** — driven by AI and data  
+- **Scalable** — cloud-native and distributed by design  
+- **Secure** — enterprise-grade security built in  
+- **Sustainable** — engineered to evolve over time  
 
 ---
 
-## 🧠 Leadership & Technical Focus
+<h2 style="font-size:30px;">WHAT WE DO AT STACKNET</h2>
 
-- Technology Strategy & System Architecture  
-- Engineering Team Leadership & Mentorship  
-- Research & Development (AI, ML, Optimization)  
-- Product Scalability & Performance Engineering  
-- Digital Transformation Consulting  
+We deliver **end-to-end technology solutions** for startups, enterprises, and public-sector organizations, covering the full lifecycle from design to deployment.
+
+<h3 style="font-size:24px;">ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</h3>
+
+- Predictive analytics and forecasting systems  
+- Deep learning and neural network solutions  
+- Intelligent automation and decision engines  
+- Model deployment, monitoring, and MLOps pipelines  
+
+<h3 style="font-size:24px;">DATA SCIENCE & ADVANCED ANALYTICS</h3>
+
+- Data engineering and ETL pipelines  
+- Business intelligence and executive dashboards  
+- Statistical modeling and optimization  
+- Big-data processing and insight generation  
+
+<h3 style="font-size:24px;">GIS & SPATIAL INTELLIGENCE</h3>
+
+- Location-based analytics platforms  
+- GIS mapping and visualization systems  
+- Smart city and infrastructure analytics  
+- Geospatial and satellite data processing  
+
+<h3 style="font-size:24px;">SOFTWARE ENGINEERING</h3>
+
+- Enterprise-grade web and mobile applications  
+- API-first and microservices architectures  
+- High-performance backend systems  
+- Cross-platform mobile development  
+
+<h3 style="font-size:24px;">CLOUD, DEVOPS & INFRASTRUCTURE</h3>
+
+- Cloud-native system architecture  
+- CI/CD automation and DevOps pipelines  
+- Containerized and orchestrated deployments  
+- Edge computing and global content delivery  
+
+<h3 style="font-size:24px;">CYBERSECURITY & COMPLIANCE</h3>
+
+- Secure system architecture and design  
+- Vulnerability assessment and hardening  
+- Identity, authentication, and access control  
+- Compliance-ready infrastructure solutions  
 
 ---
 
-## 🛠️ Technology Stack
+<h2 style="font-size:30px;">LEADERSHIP & TECHNICAL FOCUS</h2>
 
-### Languages, Frameworks & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,java,js,ts,flutter,react,angular,nodejs,flask,django" />
-</div>
-
-### Cloud, DevOps & Infrastructure
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,cloudflare,linux,nginx,redis,postgres,mysql" />
-</div>
-
-### AI, Data & Tooling
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,postman,vscode,pycharm" />
-</div>
+- Technology strategy and system architecture  
+- Engineering team leadership and mentorship  
+- Research and development in AI and ML  
+- Scalability, performance, and reliability engineering  
+- Digital transformation and consulting  
 
 ---
 
-## 📈 Engineering Metrics & Activity
+<h2 style="font-size:30px;">ENGINEERING METRICS & ACTIVITY</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahasra-Kesara&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahasra-Kesara&theme=github-dark-blue&hide_border=true" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahasra-Kesara&show_icons=false&theme=github_dark&hide_border=true" height="180" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Kesara&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahasra-Kesara&theme=github-dark-blue&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Kesara&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
 
 ---
 
-## 🏆 Achievements & Recognition
+<h2 style="font-size:30px;">ACHIEVEMENTS & RECOGNITION</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Kesara&theme=github_dark&no-frame=true&row=1&column=6" />
@@ -124,35 +114,32 @@ We deliver **end-to-end technology solutions** for startups, enterprises, and pu
 
 ---
 
-## 🌐 Vision
+<h2 style="font-size:30px;">VISION</h2>
 
-To position **StackNet** as a **globally trusted technology partner**, delivering intelligent systems that power the next generation of **AI-driven enterprises, smart infrastructure, and digital ecosystems**.
+My vision is to position **StackNet** as a **globally trusted technology partner**, delivering intelligent systems that power the next generation of **AI-driven enterprises, smart infrastructure, and digital ecosystems**.
 
-We don’t just build software —  
-we engineer **long-term digital capability**.
+We don’t just build software.  
+We engineer **long-term digital capability**.
 
 ---
 
-## 📬 Connect & Collaborate
+<h2 style="font-size:30px;">CONNECT & COLLABORATE</h2>
+
+<p align="center" style="font-size:18px;">
+  <strong>Contact:</strong> 0770 568 688
+</p>
 
 <p align="center">
-  📞 <strong>0770 568 688</strong><br/><br/>
-  <a href="https://www.linkedin.com/in/kesare-cooray-544424256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sahasrakesara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.stacknet.lk" target="_blank">
-    <img src="https://img.shields.io/badge/StackNet.lk-000000?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/kesare-cooray-544424256" target="_blank">LinkedIn</a> |
+  <a href="mailto:sahasrakesara@gmail.com">Email</a> |
+  <a href="https://www.stacknet.lk" target="_blank">www.stacknet.lk</a>
 </p>
 
 ---
 
-## 💡 Core Philosophy
+<h2 style="font-size:30px;">CORE PHILOSOPHY</h2>
 
-> “Great technology is not defined by complexity —  
+> “Great technology is not defined by complexity,  
 > but by clarity, intelligence, and impact.”
 
 <p align="center">
