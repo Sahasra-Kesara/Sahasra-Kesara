@@ -11,6 +11,7 @@
 ---
 
 ### About Me  
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/38965234-63dc-4f7b-8ced-98e7e6c97b98)
 
 I am a technology leader, innovator, and founder of **StackNet (Pvt) Ltd**, driving transformation across digital ecosystems through intelligent software engineering, applied research, and scalable infrastructure solutions.  
 
@@ -30,6 +31,7 @@ With a strong focus on **R&D and automation**, I’m passionate about leveraging
 - **Research & Development** – Exploring AI ethics, digital twin systems, and computational optimization models.  
 
 ---
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/user-attachments/assets/84a8520f-200d-4102-8510-afaeae9970cf)
 
 ### Tech Stack & Tools  
 
@@ -59,6 +61,7 @@ With a strong focus on **R&D and automation**, I’m passionate about leveraging
 </p>
 
 ---
+<img width="1325" height="700" alt="blue-technology-world-map-cutout-png" src="https://github.com/user-attachments/assets/71af18c2-342e-4124-8268-3ec51236a95d" />
 
 ### Vision  
 
@@ -67,6 +70,7 @@ To advance global technology standards through **intelligent engineering**, **re
 At **StackNet**, our mission is to engineer adaptive, secure, and scalable systems that empower organizations to lead in the era of AI and automation.  
 
 ---
+<img width="2146" height="2419" alt="World-PNG-Images" src="https://github.com/user-attachments/assets/be6dfd64-bb9e-4f80-b596-4f58ab410032" />
 
 ### Connect  
 
